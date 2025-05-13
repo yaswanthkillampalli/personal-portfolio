@@ -1,5 +1,5 @@
 import './App.css'
-import profilePic from "./assets/mine-image.jpg"
+import profilePic from "./assets/profile-pic.jpg"
 
 import ProjectCard from './components/ProjectCard'
 import StudyCard from './components/studyCard'
