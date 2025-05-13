@@ -1,0 +1,54 @@
+.mainHomeSettings {
+  align-items: center;
+}
+.profilePicStyling {
+  width: 50%;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto;
+}
+.navbarSetttings {
+  height: 50px;
+  width: 100%;
+  background-color:#a9c489;
+}
+.mainLogoSettings {
+  height: 50px;
+}
+.contact-icon-settings {
+    font-size: 33px;
+    color: gray;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+#introSec {
+  background-color: #282222;
+  color: #a9c489;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+#aboutMeSection {
+  background-color: #282222;
+  color: #a9c489;
+  padding: 20px;
+}
+#myJourneySection {
+  background-color: #282222;
+  color: #a9c489;
+  padding: 20px;
+}
+#certificatesSection {
+  background-color: #282222;
+  color: #a9c489;
+  padding: 20px;
+}
+#projectsSection,#contactSection {
+  background-color: #282222;
+  color: #a9c489;
+  padding: 20px;
+}
+.headingSettings {
+  text-align: center;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-decoration: underline;
+}

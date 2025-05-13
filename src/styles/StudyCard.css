@@ -1,0 +1,9 @@
+.logoSettings {
+    height: 80px;
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+.cardEducation {
+    padding: 10px;
+}
