@@ -2,7 +2,7 @@ import './App.css'
 import profilePic from "./assets/profile-pic.jpg"
 
 import ProjectCard from './components/ProjectCard'
-import StudyCard from './components/studyCard'
+import StudyCard from './components/StudyCard'
 //ADDING COMMENT
 import CertificateCard from './components/CertificateCard'
 
