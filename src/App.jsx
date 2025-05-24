@@ -3,6 +3,7 @@ import profilePic from "./assets/profile-pic.jpg"
 
 import ProjectCard from './components/ProjectCard'
 import StudyCard from './components/studyCard'
+//ADDING COMMENT
 import CertificateCard from './components/CertificateCard'
 
 import project1 from './assets/recipe-share-platform.jpeg'
